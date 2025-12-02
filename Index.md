@@ -1,7 +1,7 @@
 ![](./img/image.png)
 ***
-# 1. Introdução as redes e a internet
-## Aula 1 - Conceitos fundamentais de redes de computadores
+# 1. 🧑‍💻 Introdução as redes e a internet
+## 📚 Aula 1 - Conceitos fundamentais de redes de computadores
 * História da internet e Web.
 * Internet - Comunicação através do procolo IP.
 * Web - Comunicação por protocolos específicos que rodam em cima do IP.
@@ -11,7 +11,7 @@
 * Backbones em redes.
 * Web 2.0 e 3.0.
 ***
-## Aula 2 - Protocolos de comunicação em Redes
+## 📚 Aula 2 - Protocolos de comunicação em Redes
 * Topologia dos Backbones.
 * Semiótica na rede de computadores.
 * Internet, intranet e extranet.
@@ -19,7 +19,7 @@
 * Ferramentas de design para UI/UX
 * Diferença entre IA e Machine Learning.
 ***
-## Aula 03 - Endereçamento IP, Sub-redes e Portas
+## 📚 Aula 03 - Endereçamento IP, Sub-redes e Portas
 * Funcionamento e implicações do NAT.
 * Protocolos TCP e UDP.
   * Diferença de seus cabeçalhos.
@@ -27,7 +27,7 @@
 * Por que o TLS é bom?
 * Contratos inteligentes com blockchains.
 ***
-## Aula 4 - Serviços e Aplicações na internet
+## 📚 Aula 4 - Serviços e Aplicações na internet
 * Confiabilidade aplica na rede.
   * Erros de conexão, envio e confirmação.
   * Falhas na construção de sistemas.
@@ -38,7 +38,7 @@
 * Funcionamento do QOS.
 * Funcionamento da VPN.
 ***
-## Aula 05 - DNS (Domain Name System)
+## 📚 Aula 05 - DNS (Domain Name System)
 * Envenenamento de cache e como evitar.
 * Disponibilidade de servidores DNS e balanceamento de carga.
 * NS Lookup.
@@ -48,7 +48,7 @@
 * Funcionamento de VPNs e tunneling.
 * Registro de domínios: regras, funcionamentos e entidade de registro.
 ***
-## Aula 06 - Arquitetura da Internet
+## 📚 Aula 06 - Arquitetura da Internet
 * API RESTFul: O que é e sua segurança.
 * Arquitetura de 3 camadas: Front-End, Back-End e Banco de Dados.
 * Diferenças e usos dos arquivos JSON e XML.
@@ -61,14 +61,14 @@
 * Ataques DDoS e como se proteger.
 * Proteção de dados na transmissão cliente-servidor.
 ***
-## Aula 7 - Redes de computadores
+## 📚 Aula 7 - Redes de computadores
 * Discussão sobre ataque a Cloudflare.
 * Como a latência atrapalha ou não um serviço.
 * Insider Threat: Como prevenir.
 * Redes LANs, WANs, MANs e PANs: Funcionamento, contexto e protocolos.
 * Arquiteturas de rede Ethernet e Token Ring: Usos, conceito de lista circular.
 ***
-## Aula 8 - Segurança de redes
+## 📚 Aula 8 - Segurança de redes
 * Ameaças: Clássicas, Engenharia social e uso de IA para potencializar ameaças.
 * Malwares.
 * VPNs: Acesso remoto e site-a-site.
@@ -76,7 +76,7 @@
 * Gerenciamento de patches e atualizações contra ameaças.
 * ORM
 ***
-## Aula 9 - Segurança na web
+## 📚 Aula 9 - Segurança na web
 * Vulnerabilidades do HTTP e segurança
 * HTTPS e garantia de integridade e confidencialidade: criptografia, Hash, MD5.
 * Handshake SSL/TLS
@@ -87,7 +87,7 @@
 * Criptografia simétrica e assimétrica
 * Funcionamento da criptografia de ponta a ponta e limitações
 ***
-## Aula 10 - Tendências e Desafios nas Redes Modernas
+## 📚 Aula 10 - Tendências e Desafios nas Redes Modernas
 * Desafios de conectividade do IOT.
 * Protocolos para IOT.
 * Desacoplamento de plano de controle e plano de dados em uma arquitetura SDN.
@@ -99,8 +99,8 @@
 * Serviços e recursos oferecidos pela Cloudflare.
 * serviço S3 da Amazon AWS.
 ***
-# 2. Controle de versionamento: Git e GitHub
-## Aula 1 - Git, VSCode e GitLens
+# 2. ![](./img/logotipo-do-github.png) Controle de versionamento: Git e GitHub
+## 📚 Aula 1 - Git, VSCode e GitLens
 * Local de armazenamento das configurações do Git.
 * Diferença entre Git restore e Git reset.
 * Cuidados no uso de tags como --hard e --force.
@@ -110,7 +110,7 @@
 * Arquivo .gitignore
 * Uso do GitLens
 ***
-## Aula 2 - Branch e Merge
+## 📚 Aula 2 - Branch e Merge
 * Branch: O que é, convenções e boas práticas.
 * Funcionamento do HEAD.
 * Histórico de alterações.
